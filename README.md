@@ -1,3 +1,3 @@
 # dfGuildTools
 
-Please see https://mods.curse.com/addons/wow/df-guildtools
+Please see: https://mods.curse.com/addons/wow/df-guildtools
