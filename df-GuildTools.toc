@@ -1,6 +1,6 @@
 ## Title: df Guild Tools
-## Version: 0.18.0
-## Interface: 100107
+## Version: 0.19.0
+## Interface: 100200
 ## Author: Bloodsoul
 ## Notes: "Special functions for guilds."
 ## DefaultState: enabled
