@@ -1,12 +1,13 @@
 ## Title: df Guild Tools
-## Version: 0.32.0
-## Interface: 120000
+## Version: 0.33.0
+## Interface: 120001
 ## Author: Bloodsoul
 ## Notes: "Special functions for guilds."
 ## DefaultState: enabled
 df-GuildTools.lua
 localization\deDE.lua
 localization\enUS.lua
+
 
 
 
